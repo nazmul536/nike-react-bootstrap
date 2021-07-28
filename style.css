@@ -1,0 +1,87 @@
+.nav-item {
+    margin: 0 25px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.winter {
+    color: rgb(71, 63, 63);
+}
+
+/* .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(red, tomato);
+}
+
+*/
+.fas {
+    padding: 0 8px;
+}
+
+
+/* New file  */
+.bg-color-1 {
+    background-color: #FFF9F4;
+}
+
+.SHOES {
+    color: #363958;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 30px 0px;
+}
+
+.Nike {
+    padding: 5px;
+    background-color: #F1F1F1;
+    border-radius: 30px;
+}
+
+.Nike-shoe {
+    padding: 8px;
+    background-color: #F1F1F1;
+    border-radius: 30px;
+
+}
+
+.Nike-Shoe {
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+}
+
+.Nike-1 {
+    padding: 8px;
+    border-radius: 30px;
+}
+
+.Nike-2 {
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.Find {
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+}
+
+.Perfect-fit {
+    border-radius: 20px;
+}
+
+.img-3 {
+    margin-top: 5%;
+
+}
+
+.card-1 {
+    border-radius: 30px;
+}
